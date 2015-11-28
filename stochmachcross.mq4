@@ -1,7 +1,7 @@
 
 //|                                     Strategy: stochmachcross.mq4 |
 
-
+//
 #include <stdlib.mqh>
 #include <stderror.mqh>
 
